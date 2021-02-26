@@ -8,3 +8,4 @@ Aplicación social, permite publicar imágenes, comentar y reaccionar a publicac
 ![Screenshot_20210226-140317_RiseApp](https://user-images.githubusercontent.com/77468729/109344334-91895700-783c-11eb-8c64-b2c285813c44.jpg)
 ![Screenshot_20210226-140405_RiseApp](https://user-images.githubusercontent.com/77468729/109344400-a9f97180-783c-11eb-87e2-46f3ab85c308.jpg)
 ![Screenshot_20210226-140327_RiseApp](https://user-images.githubusercontent.com/77468729/109344480-ca293080-783c-11eb-8fa4-87c17f4480ba.jpg)
+![Screenshot_20210226-140356_RiseApp](https://user-images.githubusercontent.com/77468729/109344546-ddd49700-783c-11eb-9896-0f48df2450ea.jpg)
