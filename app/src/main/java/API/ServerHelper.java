@@ -32,7 +32,7 @@ import utilities.StorageLocal;
 
 public class ServerHelper extends StorageLocal{
 
-    private static String url_base = "https://url_base";
+    private static String url_base = "https://api";
     private StorageLocal storageLocal;
     private Context context;
     private RequestQueue requestQueue;
